@@ -1,0 +1,4 @@
+{
+  "test_add_project.py::test_add_project": true,
+  "test_delete_project.py::test_delete_project": true
+}
